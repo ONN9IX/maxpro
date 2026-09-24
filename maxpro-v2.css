@@ -2,3 +2,5 @@
 @media(max-width:980px){.v2-grid{grid-template-columns:1fr 1fr}.v2-schedule{grid-template-columns:repeat(5,170px)}}
 @media(max-width:880px){.v2-desktop{display:none}.v2-more{display:flex}.mobile-nav{grid-template-columns:repeat(4,1fr)!important}}
 @media(max-width:590px){.v2-grid{grid-template-columns:1fr}.v2-form-row{grid-template-columns:1fr}.v2-calendar{gap:3px}.v2-day{min-height:65px;padding:5px}.v2-event{font-size:.58rem}.v2-row{grid-template-columns:1fr auto}}
+/* University schedule */
+.v2-event.v2-class{background:rgba(183,255,27,.16);color:#d8ff85}.v2-class-lesson{border-left:3px solid var(--green)}.v2-university{margin-bottom:4px}
