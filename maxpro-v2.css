@@ -5,4 +5,5 @@
 /* University schedule */
 .v2-event.v2-class{background:rgba(183,255,27,.16);color:#d8ff85}.v2-class-lesson{border-left:3px solid var(--green)}.v2-university{margin-bottom:4px}
 .v2-due{color:#ffd166}
+.v2-history{margin-top:14px}.v2-history summary{cursor:pointer;color:var(--muted);padding:12px 2px}.v2-history[open] summary{color:var(--text)}
 .v2-date-list{display:grid;gap:14px}.v2-date-card{padding:16px}.v2-date-card .v2-head{margin-bottom:10px}.v2-date-card h3{text-transform:capitalize}.day{cursor:pointer;border:1px solid var(--line)}.day.selected{outline:2px solid var(--purple);outline-offset:1px}.day.today.selected{outline-color:#fff}
